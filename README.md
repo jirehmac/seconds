@@ -1,1 +1,5 @@
 # seconds
+
+null
+void
+empty
